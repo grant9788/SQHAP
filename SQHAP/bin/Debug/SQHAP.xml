@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SQHAP
+</name>
+</assembly>
+<members>
+<member name="T:SQHAP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SQHAP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SQHAP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SQHAP.My.Resources.Resources._2015_VerticalLogoRaw_feb2_01_1024x681_2_0_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistArtworkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtworkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.EventDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.MaintenanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistArtworkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtworkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblMaintenanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistArtworkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtworkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.EventRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.MaintenanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistArtworkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtworkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblMaintenanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtistArtworkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.ArtworkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.EventRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.MaintenanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtistArtworkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblArtworkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSet.tblMaintenanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.ArtistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.ArtistArtworkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.ArtworkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.EventTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.MaintenanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.tblArtistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.tblArtistArtworkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.tblArtworkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.tblMaintenanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SQHAP.SQHAP_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SQHAP.SQHAP_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SQHAP.SQHAP_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SQHAP.SQHAP_DBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SQHAP.SQHAP_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
